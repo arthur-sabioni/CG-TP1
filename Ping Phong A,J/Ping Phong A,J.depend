@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1567541997 source:/home/arthur/Área de Trabalho/CodeBLocks/Ping Phong A,J/main.c
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
